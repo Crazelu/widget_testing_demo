@@ -8,7 +8,7 @@ A Flutter project for Flutter Lagos How To: Widget Testing session.
 
 ## Screenshots 📷
 
-<img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/login.png" width="280" height="600"> <img src="https://raw.githubusercontent.com/Crazelu/storiez/main/assets/screenshots/signup.png" width="300" height="600"> <img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/dashboard.png" width="280" height="600">
+<img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/login.png" width="300" height="600"><img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/dashboard.png" width="300" height="600">
 
 ## Test Plan
 

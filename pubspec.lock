@@ -58,7 +58,7 @@ packages:
     source: hosted
     version: "6.0.1"
   connectivity_plus_platform_interface:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: connectivity_plus_platform_interface
       sha256: b6a56efe1e6675be240de39107281d4034b64ac23438026355b4234042a35adb
@@ -209,7 +209,7 @@ packages:
     source: hosted
     version: "6.0.2"
   plugin_platform_interface:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: plugin_platform_interface
       sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
