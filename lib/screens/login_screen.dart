@@ -47,6 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
             const Gap(56),
             AppTextField(
+              key: const ValueKey('Email-Text-Field'),
               hint: 'Email',
               controller: _emailController,
               keyboardType: TextInputType.emailAddress,
