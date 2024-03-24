@@ -6,10 +6,6 @@ A Flutter project for Flutter Lagos How To: Widget Testing session.
 
 - Flutter 3.19.0 or later
 
-## Screenshots 📷
-
-<img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/login.png" width="300" height="600"><img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/dashboard.png" width="300" height="600">
-
 ## Test Plan
 
 ### LoginScreen
@@ -21,3 +17,8 @@ A Flutter project for Flutter Lagos How To: Widget Testing session.
 
 - Verify that clicking 'Logout' button shows the login screen
 - Verify that the correct banner is shown depending on internet connection state
+
+## Screenshots 📷
+
+<img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/login.png" width="300" height="600"><img src="https://raw.githubusercontent.com/Crazelu/widget_testing_demo/main/assets/screenshots/dashboard.png" width="300" height="600">
+
